@@ -1,0 +1,4 @@
+FirstName,LastName,Username,Password,OU,Department,Title
+John,Smith,jsmith,Welcome1!,"OU=Users,DC=domain,DC=com",IT,Systems Engineer
+Jane,Doe,jdoe,Welcome1!,"OU=Users,DC=domain,DC=com",HR,HR Manager
+Bob,Johnson,bjohnson,Welcome1!,"OU=Users,DC=domain,DC=com",Finance,Analyst
